@@ -1,0 +1,29 @@
+{
+  "name": "zen-garden",
+  "displayName": "Zen Garden",
+  "description": "Soft, minimalistic theme with pastel colors, promoting a calm and focused coding experience.",
+  "version": "0.0.2",
+  "publisher": "talha2k",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Zen Garden",
+        "uiTheme": "vs",
+        "path": "./themes/Zen Garden-color-theme.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "zen-garden": "file:"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sana2k/zen-garden.git"
+  }
+}
