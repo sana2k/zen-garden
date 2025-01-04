@@ -2,6 +2,8 @@
 
 **Zen Garden** is a soft, minimalistic Visual Studio Code theme with pastel colors, designed to promote a calm and focused coding experience.
 
+![Zen Garden Banner](./images/banner.png)
+
 ## Features
 
 - **Minimalistic Design:** Clean and simple interface that reduces distractions.
