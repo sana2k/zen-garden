@@ -19,16 +19,16 @@
 | **Brandy**           | `#dab786`    | ![Brandy](./images/brandy.png)                                                             |
 | **Maize**            | `#f6d6ad`    | ![Maize](./images/maize.png)                                                               |
 | **Tacao**            | `#e8a87c`    | ![Tacao](./images/tacao.png)                                                               |
-| **Oriental Pink**    | `#c38d9e`    | ![Oriental Pink](./images/oriental-pink.png)                                               |
+| **Oriental Pink**    | `#c38d9e`    | ![Oriental Pink](./images/oriental_pink.png)                                               |
 | **Acapulco**         | `#85b79d`    | ![Acapulco](./images/acapulco.png)                                                         |
-| **Oxford Blue**      | `#363e58`    | ![Oxford Blue](./images/oxford-blue.png)                                                   |
+| **Oxford Blue**      | `#363e58`    | ![Oxford Blue](./images/oxford_blue.png)                                                   |
 | **Bittersweet**      | `#ff6f61`    | ![Bittersweet](./images/bittersweet.png)                                                   |
-| **Sea Nymph**        | `#6ca59e`    | ![Sea Nymph](./images/sea-nymph.png)                                                       |
+| **Sea Nymph**        | `#6ca59e`    | ![Sea Nymph](./images/sea_nymph.png)                                                       |
 | **Cranberry**        | `#da627d`    | ![Cranberry](./images/cranberry.png)                                                       |
-| **Vivid Tangerine**  | `#ffa07a`    | ![Vivid Tangerine](./images/vivid-tangerine.png)                                           |
-| **Texas Rose**       | `#fdbf50`    | ![Texas Rose](./images/texas-rose.png)                                                     |
+| **Vivid Tangerine**  | `#ffa07a`    | ![Vivid Tangerine](./images/vivid_tangerine.png)                                           |
+| **Texas Rose**       | `#fdbf50`    | ![Texas Rose](./images/texas_rose.png)                                                     |
 | **Mauve**            | `#c594ff`    | ![Mauve](./images/mauve.png)                                                               |
-| **Fountain Blue**    | `#52b2bf`    | ![Fountain Blue](./images/fountain-blue.png)                                               |
+| **Fountain Blue**    | `#52b2bf`    | ![Fountain Blue](./images/fountain_blue.png)                                               |
 | **Atlantis**         | `#8aca2b`    | ![Atlantis](./images/atlantis.png)                                                         |
 
 ## Installation
