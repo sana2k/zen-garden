@@ -2,7 +2,7 @@
   "name": "zen-garden",
   "displayName": "Zen Garden",
   "description": "Soft, minimalistic theme with pastel colors, promoting a calm and focused coding experience.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "talha2k",
   "icon": "images/logo.png",
   "engines": {

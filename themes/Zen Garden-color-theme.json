@@ -1,6 +1,6 @@
 {
   "name": "Zen Garden",
-  "type": "light",
+  "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
