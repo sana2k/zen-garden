@@ -15,21 +15,21 @@
 
 | Colour Name         | Color Sample                                                                             | Hex Code  |
 | ------------------- | ---------------------------------------------------------------------------------------- | --------- |
-| **Armadillo**       | <span style="display:inline-block; width:15px; height:15px; background:#423e37;"></span> | `#423e37` |
-| **Brandy**          | <span style="display:inline-block; width:15px; height:15px; background:#dab786;"></span> | `#dab786` |
-| **Maize**           | <span style="display:inline-block; width:15px; height:15px; background:#f6d6ad;"></span> | `#f6d6ad` |
-| **Tacao**           | <span style="display:inline-block; width:15px; height:15px; background:#e8a87c;"></span> | `#e8a87c` |
-| **Oriental Pink**   | <span style="display:inline-block; width:15px; height:15px; background:#c38d9e;"></span> | `#c38d9e` |
-| **Acapulco**        | <span style="display:inline-block; width:15px; height:15px; background:#85b79d;"></span> | `#85b79d` |
-| **Oxford Blue**     | <span style="display:inline-block; width:15px; height:15px; background:#363e58;"></span> | `#363e58` |
-| **Bittersweet**     | <span style="display:inline-block; width:15px; height:15px; background:#ff6f61;"></span> | `#ff6f61` |
-| **Sea Nymph**       | <span style="display:inline-block; width:15px; height:15px; background:#6ca59e;"></span> | `#6ca59e` |
-| **Cranberry**       | <span style="display:inline-block; width:15px; height:15px; background:#da627d;"></span> | `#da627d` |
-| **Vivid Tangerine** | <span style="display:inline-block; width:15px; height:15px; background:#ffa07a;"></span> | `#ffa07a` |
-| **Texas Rose**      | <span style="display:inline-block; width:15px; height:15px; background:#fdbf50;"></span> | `#fdbf50` |
-| **Mauve**           | <span style="display:inline-block; width:15px; height:15px; background:#c594ff;"></span> | `#c594ff` |
-| **Fountain Blue**   | <span style="display:inline-block; width:15px; height:15px; background:#52b2bf;"></span> | `#52b2bf` |
-| **Atlantis**        | <span style="display:inline-block; width:15px; height:15px; background:#8aca2b;"></span> | `#8aca2b` |
+| **Armadillo**       | <span style="display:inline-block; background:#423e37;">Sample</span> | `#423e37` |
+| **Brandy**          | <span style="display:inline-block; background:#dab786;">Sample</span> | `#dab786` |
+| **Maize**           | <span style="display:inline-block; background:#f6d6ad;">Sample</span> | `#f6d6ad` |
+| **Tacao**           | <span style="display:inline-block; background:#e8a87c;">Sample</span> | `#e8a87c` |
+| **Oriental Pink**   | <span style="display:inline-block; background:#c38d9e;">Sample</span> | `#c38d9e` |
+| **Acapulco**        | <span style="display:inline-block; background:#85b79d;">Sample</span> | `#85b79d` |
+| **Oxford Blue**     | <span style="display:inline-block; background:#363e58;">Sample</span> | `#363e58` |
+| **Bittersweet**     | <span style="display:inline-block; background:#ff6f61;">Sample</span> | `#ff6f61` |
+| **Sea Nymph**       | <span style="display:inline-block; background:#6ca59e;">Sample</span> | `#6ca59e` |
+| **Cranberry**       | <span style="display:inline-block; background:#da627d;">Sample</span> | `#da627d` |
+| **Vivid Tangerine** | <span style="display:inline-block; background:#ffa07a;">Sample</span> | `#ffa07a` |
+| **Texas Rose**      | <span style="display:inline-block; background:#fdbf50;">Sample</span> | `#fdbf50` |
+| **Mauve**           | <span style="display:inline-block; background:#c594ff;">Sample</span> | `#c594ff` |
+| **Fountain Blue**   | <span style="display:inline-block; background:#52b2bf;">Sample</span> | `#52b2bf` |
+| **Atlantis**        | <span style="display:inline-block; background:#8aca2b;">Sample</span> | `#8aca2b` |
 
 ## Installation
 
