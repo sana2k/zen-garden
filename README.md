@@ -13,23 +13,23 @@
 
 ## Color Palette
 
-| Colour Name         | Color Sample                                                                             | Hex Code  |
-| ------------------- | ---------------------------------------------------------------------------------------- | --------- |
-| **Armadillo**       | <span style="display:inline-block; background:#423e37;">Sample</span> | `#423e37` |
-| **Brandy**          | <span style="display:inline-block; background:#dab786;">Sample</span> | `#dab786` |
-| **Maize**           | <span style="display:inline-block; background:#f6d6ad;">Sample</span> | `#f6d6ad` |
-| **Tacao**           | <span style="display:inline-block; background:#e8a87c;">Sample</span> | `#e8a87c` |
-| **Oriental Pink**   | <span style="display:inline-block; background:#c38d9e;">Sample</span> | `#c38d9e` |
-| **Acapulco**        | <span style="display:inline-block; background:#85b79d;">Sample</span> | `#85b79d` |
-| **Oxford Blue**     | <span style="display:inline-block; background:#363e58;">Sample</span> | `#363e58` |
-| **Bittersweet**     | <span style="display:inline-block; background:#ff6f61;">Sample</span> | `#ff6f61` |
-| **Sea Nymph**       | <span style="display:inline-block; background:#6ca59e;">Sample</span> | `#6ca59e` |
-| **Cranberry**       | <span style="display:inline-block; background:#da627d;">Sample</span> | `#da627d` |
-| **Vivid Tangerine** | <span style="display:inline-block; background:#ffa07a;">Sample</span> | `#ffa07a` |
-| **Texas Rose**      | <span style="display:inline-block; background:#fdbf50;">Sample</span> | `#fdbf50` |
-| **Mauve**           | <span style="display:inline-block; background:#c594ff;">Sample</span> | `#c594ff` |
-| **Fountain Blue**   | <span style="display:inline-block; background:#52b2bf;">Sample</span> | `#52b2bf` |
-| **Atlantis**        | <span style="display:inline-block; background:#8aca2b;">Sample</span> | `#8aca2b` |
+| **Color Name**       | **Hex Code** | **Sample**                                                                                   |
+|----------------------|--------------|----------------------------------------------------------------------------------------------|
+| **Armadillo**        | `#423e37`    | ![Armadillo](./images/armadillo.png)                                                       |
+| **Brandy**           | `#dab786`    | ![Brandy](./images/brandy.png)                                                             |
+| **Maize**            | `#f6d6ad`    | ![Maize](./images/maize.png)                                                               |
+| **Tacao**            | `#e8a87c`    | ![Tacao](./images/tacao.png)                                                               |
+| **Oriental Pink**    | `#c38d9e`    | ![Oriental Pink](./images/oriental-pink.png)                                               |
+| **Acapulco**         | `#85b79d`    | ![Acapulco](./images/acapulco.png)                                                         |
+| **Oxford Blue**      | `#363e58`    | ![Oxford Blue](./images/oxford-blue.png)                                                   |
+| **Bittersweet**      | `#ff6f61`    | ![Bittersweet](./images/bittersweet.png)                                                   |
+| **Sea Nymph**        | `#6ca59e`    | ![Sea Nymph](./images/sea-nymph.png)                                                       |
+| **Cranberry**        | `#da627d`    | ![Cranberry](./images/cranberry.png)                                                       |
+| **Vivid Tangerine**  | `#ffa07a`    | ![Vivid Tangerine](./images/vivid-tangerine.png)                                           |
+| **Texas Rose**       | `#fdbf50`    | ![Texas Rose](./images/texas-rose.png)                                                     |
+| **Mauve**            | `#c594ff`    | ![Mauve](./images/mauve.png)                                                               |
+| **Fountain Blue**    | `#52b2bf`    | ![Fountain Blue](./images/fountain-blue.png)                                               |
+| **Atlantis**         | `#8aca2b`    | ![Atlantis](./images/atlantis.png)                                                         |
 
 ## Installation
 
