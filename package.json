@@ -2,8 +2,9 @@
   "name": "zen-garden",
   "displayName": "Zen Garden",
   "description": "Soft, minimalistic theme with pastel colors, promoting a calm and focused coding experience.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "talha2k",
+  "icon": "images/logo.png",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -25,5 +26,18 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/sana2k/zen-garden.git"
+  },
+  "keywords": [
+    "theme",
+    "color-theme",
+    "zen",
+    "garden",
+    "minimalistic",
+    "pastel",
+    "gentle"
+  ],
+  "author": {
+    "name": "Talha Khan",
+    "email": "hello@talha2k.com"
   }
 }
